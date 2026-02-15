@@ -1,6 +1,6 @@
 # CS690: Reflection Journal Final Project
 
-## Overview
+## Overview:
 
 This Reflection Journal is a .NET C# console application designed to make daily journaling simple and consistent. The application helps users regularly record their experiences, reflect on their day, and review past entries so they can recognize patterns and see their personal growth over time.
 
