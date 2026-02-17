@@ -1,4 +1,6 @@
-# CS690: Reflection Journal Final Project
+# CS690: Software Engineering
+
+# Reflection Journal Final Project
 
 ## Overview:
 
