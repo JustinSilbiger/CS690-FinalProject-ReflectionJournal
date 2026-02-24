@@ -12,7 +12,7 @@ Coming soon...
 
 ## Documentation:
 
-- The Scenario, BRs, UCs, FRs, NFRs, UI Prototypes, Domain Model, Activity Diagrams, and Architecture can all be found in the [Wiki ](https://github.com/JustinSilbiger/CS690-FinalProject-ReflectionJournal/wiki/CS690-Final-Project-Wiki) 📖
+- The Scenario, BRs, UCs, FRs, NFRs, UI Prototypes, Domain Model, Activity Diagrams, and Architecture can all be found in the [Wiki ](https://github.com/JustinSilbiger/CS690-FinalProject-ReflectionJournal/wiki) 📖
 
 - Prioritized functional and non-functional requirements are listed on the [Issues Page :octocat:](https://github.com/JustinSilbiger/CS690-FinalProject-ReflectionJournal/issues)
 
