@@ -12,10 +12,9 @@ Coming soon...
 
 ## Documentation:
 
-- Scenario, business requirements and use cases can be found in the [Main Wiki ](https://github.com/JustinSilbiger/CS690-FinalProject-ReflectionJournal/wiki/Main) 📖
+- The Scenario, BRs, UCs, FRs, NFRs, UI Prototypes, Domain Model, Activity Diagrams, and Architecture can all be found in the [Wiki ](https://github.com/JustinSilbiger/CS690-FinalProject-ReflectionJournal/wiki/CS690-Final-Project-Wiki) 📖
 
 - Prioritized functional and non-functional requirements are listed on the [Issues Page :octocat:](https://github.com/JustinSilbiger/CS690-FinalProject-ReflectionJournal/issues)
-
 
 ---
 
