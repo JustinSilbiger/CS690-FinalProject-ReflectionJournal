@@ -8,7 +8,7 @@ This Reflection Journal is a .NET C# console application designed to make daily 
 
 ## Get Started:
 
-Coming soon...
+👉 [Deployment Documentation](https://github.com/JustinSilbiger/CS690-FinalProject-ReflectionJournal/wiki/Deployment-Documentation)
 
 ## Documentation:
 
