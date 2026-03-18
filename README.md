@@ -10,6 +10,8 @@ This Reflection Journal is a .NET C# console application designed to make daily 
 
 👉 [Deployment Documentation](https://github.com/JustinSilbiger/CS690-FinalProject-ReflectionJournal/wiki/Deployment-Documentation)
 
+👉 [User Documentation](https://github.com/JustinSilbiger/CS690-FinalProject-ReflectionJournal/wiki/User-Documentation)
+
 ## Documentation:
 
 - The Scenario, BRs, UCs, FRs, NFRs, UI Prototypes, Domain Model, Activity Diagrams, and Architecture can all be found in the [Wiki ](https://github.com/JustinSilbiger/CS690-FinalProject-ReflectionJournal/wiki) 📖
