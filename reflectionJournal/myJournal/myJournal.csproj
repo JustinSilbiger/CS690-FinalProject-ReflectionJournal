@@ -11,4 +11,8 @@
     <PackageReference Include="Spectre.Console" Version="0.54.0" />
   </ItemGroup>
 
+  <ItemGroup>
+    <InternalsVisibleTo Include="myJournal.Tests" />
+  </ItemGroup>
+
 </Project>
