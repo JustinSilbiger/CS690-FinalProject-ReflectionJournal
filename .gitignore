@@ -3,6 +3,9 @@
 ##
 ## Get latest from `dotnet new gitignore`
 
+# Local journal entries
+reflectionJournal/myJournal/journal-data/
+
 # dotenv files
 .env
 
